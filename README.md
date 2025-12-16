@@ -1,3 +1,4 @@
+HEAD
 # Simple Random Forest Project
 
 A minimal project that trains a Random Forest classifier using scikit-learn built-in datasets.
@@ -22,3 +23,7 @@ Notes
 
 - Supported datasets: `iris`, `synthetic` (default `iris`).
 - Model saved to `models/model.joblib` by default.
+
+# GenerativeAI
+This is the first project on GenerativeAI
+ 6812dd0d21edac038c077ff1ba72dcae7857ea47
